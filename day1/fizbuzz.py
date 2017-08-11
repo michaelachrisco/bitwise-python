@@ -5,7 +5,7 @@ for i in range(51):
     elif i % 3 == 0 and not (i % 15 == 0):
         print("Fizz")
     elif i % 5 == 0 and not (i % 15 == 0):
-        print("Buzz")
+         print("Buzz")
     else:
         print(i)
 
